@@ -1,7 +1,7 @@
 import { readFileSync } from "fs";
 import path from "path";
 
-export const dynamic = "force-dynamic"; // defaults to auto
+export const dynamic = "auto"; // defaults to auto
 
 const filePath = path.resolve("app", "giscus.css", "giscus.css");
 const cssBuffer = readFileSync(filePath);
