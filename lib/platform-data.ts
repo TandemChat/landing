@@ -81,7 +81,7 @@ export const EXTENDED_PLATFORM_DATA: ExtendedPlatformMap = {
         name: "iOS",
         downloads: [
             {
-                label: "Open Web App",
+                label: "Открыть Веб-Приложение",
                 url: URLs.pwa,
             },
         ],

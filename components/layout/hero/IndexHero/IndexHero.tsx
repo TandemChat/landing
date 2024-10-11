@@ -98,15 +98,12 @@ const IndexHero = () => {
         <>
             <Container>
                 <Slogan>
-                    Find your community,
+                    Найди своё сообщество,
                     <br />
-                    connect with the world.
+                    подключись к миру.
                 </Slogan>
                 <Pitch>
-                    Revolt is one of the best ways to stay connected with your
-                    friends and community without sacrificing any usability. We
-                    focus only on the user, and you can be sure that your
-                    conversations are confidential and your data is secure.
+                    Tandem — один из лучших способов оставаться на связи с друзьями и сообществом, не жертвуя удобством. Мы ориентируемся только на пользователя, и вы можете быть уверены, что ваши разговоры конфиденциальны, а ваши данные защищены.
                 </Pitch>
                 <AnimatedButtons>
                     <HeroButtons />

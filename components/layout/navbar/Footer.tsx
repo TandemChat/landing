@@ -88,7 +88,7 @@ const Footer = () => {
                 <BrandBox>
                     <BrandJustify>
                         <Link href="/">
-                            <RevoltLogoContainer src={RevoltLogo.src} />
+                            <RevoltLogoContainer src="https://app.tandemchat.ru/assets/wide.svg" />
                         </Link>
                     </BrandJustify>
                     <Socials>

@@ -28,7 +28,7 @@ export default function Home({ fadeoutUrl }: HomeProps) {
             </HeroContainer>
             <PagePadding>
                 <Feature
-                    heading="Create a space only for you and your friends."
+                    heading="Создайте пространство только для вас и ваших друзей"
                     image={Servers.src}
                 >
                     Tandem lets you create a private space for you and your
@@ -37,7 +37,7 @@ export default function Home({ fadeoutUrl }: HomeProps) {
                     and even invite any other friends to join you.
                 </Feature>
                 <Feature
-                    heading="Built even for the most dedicated communities."
+                    heading="Создан даже для самых уникальных сообществ"
                     image={Roles.src}
                     reverse
                 >
@@ -47,7 +47,7 @@ export default function Home({ fadeoutUrl }: HomeProps) {
                     in minutes.
                 </Feature>
                 <Feature
-                    heading="Talk without anyone else listening in."
+                    heading="Ваши данные - только Ваши"
                     image={Private.src}
                 >
                     Tandem will not sell your data or leak it to advertisers.
@@ -58,7 +58,7 @@ export default function Home({ fadeoutUrl }: HomeProps) {
                     sure of it.
                 </Feature>
                 <Feature
-                    heading="Make it yours in minutes."
+                    heading="Добавьте уникальности в 1 клик!"
                     image={Colors.src}
                     reverse
                 >

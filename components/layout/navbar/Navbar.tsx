@@ -37,7 +37,7 @@ const Navbar = () => {
         <NavbarFloat>
             <NavbarFlex>
                 <Link href="/">
-                    <RevoltLogoContainer src={RevoltLogo.src} />
+                    <RevoltLogoContainer src="https://app.tandemchat.ru/assets/wide.svg"/>
                 </Link>
                 <LinkContainer>
                     <Link href="https://support.revolt.chat">

@@ -52,9 +52,9 @@ const HeroButtons = ({ darker }: HeroButtonsProps) => {
                     variant={darker ? "regular" : "regular-invert"}
                     href={URLs.pwa}
                 >
-                    Open Web App
+                    Открыть Веб-Приложение
                 </LinkButton>
-                {platformId &&
+                {/* {platformId &&
                     !["other", "ssr"].includes(platformId ?? "") &&
                     platformInfo?.url && (
                         <LinkButton href={platformInfo.url} variant="primary">
@@ -63,11 +63,11 @@ const HeroButtons = ({ darker }: HeroButtonsProps) => {
                                 ? `from ${platformInfo.source}`
                                 : `for ${platformInfo?.name}`}
                         </LinkButton>
-                    )}
+                    )} */}
             </Buttons>
             <Link href="/download">
                 <OtherPlatforms>
-                    See other platforms and downloads
+                    Посмотреть платформы и загрузки
                 </OtherPlatforms>
             </Link>
         </>
