@@ -12,7 +12,7 @@ interface PostsProps {
 export default function Posts({ posts }: PostsProps) {
     return (
         <PagePadding>
-            <PageTitle>Blog - Revolt</PageTitle>
+            <PageTitle>Blog - Tandem</PageTitle>
             <PageHeading>Blog</PageHeading>
             <PostGrid posts={posts} />
         </PagePadding>

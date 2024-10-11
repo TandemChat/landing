@@ -19,13 +19,13 @@ export default function Posts({ post }: PostsProps) {
         <PagePadding>
             <CustomMeta
                 meta={{
-                    title: `${post.title} - Revolt`,
+                    title: `${post.title} - Tandem`,
                     description: post.description,
-                    thumbnailAt: `https://revolt.chat${post.coverImage}`,
-                    url: `https://revolt.chat/posts/${post.slug}`,
+                    thumbnailAt: `https://tandemchat.ru${post.coverImage}`,
+                    url: `https://tandemchat.ru/posts/${post.slug}`,
                 }}
             />
-            <PageTitle>{`${post.title} - Revolt`}</PageTitle>
+            <PageTitle>{`${post.title} - Tandem`}</PageTitle>
             <PostMetadata post={post} />
             <MarkdownView rendered={post.content}></MarkdownView>
             {post.giscus && <CommentsView />}

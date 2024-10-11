@@ -12,7 +12,7 @@ interface TermsProps {
 export default function Terms({ renderedContents }: TermsProps) {
     return (
         <PagePadding>
-            <PageTitle>{`Terms of Service - Revolt`}</PageTitle>
+            <PageTitle>{`Terms of Service - Tandem`}</PageTitle>
             <MarkdownView rendered={renderedContents}></MarkdownView>
         </PagePadding>
     );

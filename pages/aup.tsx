@@ -14,7 +14,7 @@ export default function CommunityGuidelines({
 }: CommunityGlsProps) {
     return (
         <PagePadding>
-            <PageTitle>{`Community Guidelines - Revolt`}</PageTitle>
+            <PageTitle>{`Community Guidelines - Tandem`}</PageTitle>
             <MarkdownView rendered={renderedContents}></MarkdownView>
         </PagePadding>
     );

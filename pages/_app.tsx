@@ -38,7 +38,7 @@ export default function App({ Component, pageProps }: AppProps) {
             </ThemeProvider>
             <script
                 defer
-                data-domain="revolt.chat"
+                data-domain="tandemchat.ru"
                 data-api="/p"
                 src="/js/p.js"
             ></script>

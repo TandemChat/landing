@@ -6,8 +6,8 @@ import PageTitle from "../components/layout/global/PageTitle";
 export default function NotFound() {
     return (
         <PagePadding>
-            <PageTitle>{`Internal Server Error - Revolt`}</PageTitle>
-            <ErrorPage code="500" message="Internal Server Error" />
+            <PageTitle>{`Ошибка сервера - Tandem`}</PageTitle>
+            <ErrorPage code="500" message="Ошибка сервера" />
         </PagePadding>
     );
 }
