@@ -110,13 +110,13 @@ const Footer = () => {
                             <NavLink>О нас</NavLink>
                         </Link>
                         <Link href="/posts">
-                            <NavLink>Блок</NavLink>
+                            <NavLink>Блог</NavLink>
                         </Link>
                     </LinkContainer>
                     <LinkContainer>
                         <LinkContainerHeader>Право</LinkContainerHeader>
                         <Link href="/aup">
-                            <NavLink>Community Guidelines</NavLink>
+                            <NavLink>Принципы сообщества</NavLink>
                         </Link>
                         <Link href="/terms">
                             <NavLink>Условия использования</NavLink>
