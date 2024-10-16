@@ -40,17 +40,8 @@ const Navbar = () => {
                     <RevoltLogoContainer src="https://app.tandemchat.ru/assets/wide.svg"/>
                 </Link>
                 <LinkContainer>
-                    <Link href="https://support.revolt.chat">
-                        <NavLink>Support</NavLink>
-                    </Link>
                     <Link href="/posts">
-                        <NavLink>Blog</NavLink>
-                    </Link>
-                    <Link
-                        href="https://github.com/orgs/revoltchat/projects/3/views/1"
-                        passHref
-                    >
-                        <NavLink>Tracker</NavLink>
+                        <NavLink>Блог</NavLink>
                     </Link>
                 </LinkContainer>
             </NavbarFlex>
