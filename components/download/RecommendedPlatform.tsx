@@ -35,7 +35,7 @@ const RecommendedPlatform = () => {
 
     return (
         <RecommendedBox>
-            <Heading>It looks like you're on {platformInfo.name}.</Heading>
+            <Heading>Похоже, вы используете {platformInfo.name}.</Heading>
             <DownloadSectionWithData platformId={platformId} />
         </RecommendedBox>
     );
