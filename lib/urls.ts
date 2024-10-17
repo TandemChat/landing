@@ -1,15 +1,8 @@
 const URLs = {
-    android: {
-        fDroid: "https://fdroid.revolt.chat/repo/",
-        googlePlay:
-            "https://play.google.com/store/apps/details?id=chat.revolt.app.twa",
-    },
     electron: {
-        releases: "https://github.com/revoltchat/desktop/releases",
+        releases: "https://github.com/TandemChat/desktop/releases",
         microsoftStore:
-            "https://apps.microsoft.com/store/detail/revolt-chat/9NMTVMRJ7N1K",
-        flathub: "https://flathub.org/apps/details/chat.revolt.RevoltDesktop",
-        aur: "https://aur.archlinux.org/packages/revolt-desktop-git",
+            "https://www.microsoft.com/store/productId/9P812NXWRQVS",
     },
     pwa: "https://app.tandemchat.ru",
 };

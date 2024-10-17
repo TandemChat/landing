@@ -92,79 +92,37 @@ const Footer = () => {
                         </Link>
                     </BrandJustify>
                     <Socials>
-                        <Link href="https://github.com/revoltchat">
+                        <Link href="https://github.com/tandemchat">
                             <Github size={30} />
-                        </Link>
-                        <Link
-                            href="https://mastodon.social/@revoltchat"
-                            rel="me"
-                        >
-                            <Mastodon size={30} />
-                        </Link>
-                        <Link href="https://twitter.com/revoltchat">
-                            <Twitter size={30} />
-                        </Link>
-                        <Link href="https://reddit.com/r/revoltchat">
-                            <Reddit size={30} />
                         </Link>
                     </Socials>
                 </BrandBox>
                 <Links>
                     <LinkContainer>
-                        <LinkContainerHeader>App</LinkContainerHeader>
+                        <LinkContainerHeader>Приложение</LinkContainerHeader>
                         <Link href="/download">
-                            <NavLink>Download</NavLink>
-                        </Link>
-                        <Link href="https://github.com/orgs/revoltchat/projects/3/views/1">
-                            <NavLink>Project Tracker</NavLink>
-                        </Link>
-                        <Link href="https://support.revolt.chat">
-                            <NavLink>Support</NavLink>
+                            <NavLink>Скачать</NavLink>
                         </Link>
                     </LinkContainer>
                     <LinkContainer>
-                        <LinkContainerHeader>Developers</LinkContainerHeader>
-                        <Link href="https://developers.revolt.chat">
-                            <NavLink>Documentation</NavLink>
-                        </Link>
-                        <Link href="https://weblate.insrt.uk/engage/revolt/?utm_source=widget">
-                            <NavLink>Help Translate</NavLink>
-                        </Link>
-                    </LinkContainer>
-                    <LinkContainer>
-                        <LinkContainerHeader>Team</LinkContainerHeader>
+                        <LinkContainerHeader>Команда</LinkContainerHeader>
                         <Link href="/about">
-                            <NavLink>About</NavLink>
+                            <NavLink>О нас</NavLink>
                         </Link>
                         <Link href="/posts">
-                            <NavLink>Blog</NavLink>
-                        </Link>
-                        <Link href="https://support.revolt.chat/contact">
-                            <NavLink>Contact</NavLink>
+                            <NavLink>Блог</NavLink>
                         </Link>
                     </LinkContainer>
                     <LinkContainer>
-                        <LinkContainerHeader>Legal</LinkContainerHeader>
+                        <LinkContainerHeader>Право</LinkContainerHeader>
                         <Link href="/aup">
-                            <NavLink>Community Guidelines</NavLink>
+                            <NavLink>Принципы сообщества</NavLink>
                         </Link>
                         <Link href="/terms">
-                            <NavLink>Terms of Service</NavLink>
+                            <NavLink>Условия использования</NavLink>
                         </Link>
                         <Link href="/privacy">
-                            <NavLink>Privacy Policy</NavLink>
-                        </Link>
-                    </LinkContainer>
-                    <LinkContainer>
-                        <LinkContainerHeader>Subscribe</LinkContainerHeader>
-                        <Link href="/feed/rss">
-                            <NavLink>RSS</NavLink>
-                        </Link>
-                        <Link href="/feed/atom">
-                            <NavLink>Atom</NavLink>
-                        </Link>
-                        <Link href="/feed/json">
-                            <NavLink>JSON</NavLink>
+                            <NavLink>Политика конфиденциальности</NavLink>
                         </Link>
                     </LinkContainer>
                 </Links>

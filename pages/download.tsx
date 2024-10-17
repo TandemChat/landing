@@ -9,8 +9,8 @@ import PageTitle from "../components/layout/global/PageTitle";
 export default function Download() {
     return (
         <PagePadding>
-            <PageTitle>Download - Tandem</PageTitle>
-            <PageHeading>Download Tandem</PageHeading>
+            <PageTitle>Скачать - Tandem</PageTitle>
+            <PageHeading>Скачать Tandem</PageHeading>
             <RecommendedPlatform />
 
             {(Object.keys(PLATFORM_BUTTON_DATA) as Platform[]).map(

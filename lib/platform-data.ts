@@ -12,8 +12,8 @@ export type PlatformButtonData = Record<Platform, PlatformButton>;
 export const PLATFORM_BUTTON_DATA: PlatformButtonData = {
     android: {
         name: "Android",
-        source: "Google Play",
-        url: URLs.android.googlePlay,
+        source: null,
+        url: null,
     },
     ios: {
         name: "iOS",
@@ -22,8 +22,8 @@ export const PLATFORM_BUTTON_DATA: PlatformButtonData = {
     },
     linux: {
         name: "Linux",
-        source: "Flathub",
-        url: URLs.electron.flathub,
+        source: null,
+        url: URLs.electron.releases,
     },
     windows: {
         name: "Windows",
@@ -66,16 +66,14 @@ export const EXTENDED_PLATFORM_DATA: ExtendedPlatformMap = {
         name: "Android",
         downloads: [
             {
-                label: "Google Play",
-                url: URLs.android.googlePlay,
-            },
-            {
-                label: "F-Droid",
-                url: URLs.android.fDroid,
+                label: "Открыть Веб-Приложение",
+                url: URLs.pwa,
             },
         ],
         infoText:
-            "The Android app is available on Google Play and the Revolt F-Droid repository.",
+            "Пока что мы не создали отдельного приложения для Android, " +
+            "но вы можете установить Веб-Приложение PWA используя " +
+            "ваш браузер.",
     },
     ios: {
         name: "iOS",
@@ -86,30 +84,22 @@ export const EXTENDED_PLATFORM_DATA: ExtendedPlatformMap = {
             },
         ],
         infoText:
-            "While we don't offer a dedicated iOS application yet, " +
-            "you can install the web app to your home screen using " +
+            "Пока что мы не создали отдельного приложения для iOS, " +
+            "но вы можете установить Веб-Приложение PWA на домашний экран используя " +
             "Safari.",
     },
     linux: {
         name: "Linux",
         downloads: [
             {
-                label: "Flathub",
-                url: URLs.electron.flathub,
-            },
-            {
-                label: "AUR",
-                url: URLs.electron.aur,
-            },
-            {
                 label: "GitHub Releases",
                 url: URLs.electron.releases,
             },
         ],
         infoText:
-            "The Linux app is available on Flathub, the Arch User " +
-            "Repository, and in some other formats (.AppImage, .tar.gz) " +
-            "on GitHub.",
+            "Приложение Linux доступно в нескольких форматах " +
+            "(.AppImage, .tar.gz) " +
+            "на нашем GitHub.",
     },
     macos: {
         name: "macOS",
@@ -119,7 +109,7 @@ export const EXTENDED_PLATFORM_DATA: ExtendedPlatformMap = {
                 url: URLs.electron.releases,
             },
         ],
-        infoText: "The macOS app is available as a .dmg on GitHub.",
+        infoText: "macOS приложение доступно как .dmg на GitHub. Скоро планируется публикация в Mac App Store.",
     },
     windows: {
         name: "Windows",
@@ -134,9 +124,9 @@ export const EXTENDED_PLATFORM_DATA: ExtendedPlatformMap = {
             },
         ],
         infoText:
-            "The Windows app is available via the Microsoft Store. " +
-            "It's also available via Winget as Revolt.RevoltDesktop, " +
-            "and a standalone installer is available on GitHub.",
+            "Windows приложение доступно в Microsoft Store. " +
+            "А так же, вы можете его установить через " +
+            "установщик с нашего GitHub.",
     },
     other: {
         name: "Other",

@@ -54,7 +54,7 @@ const HeroButtons = ({ darker }: HeroButtonsProps) => {
                 >
                     Открыть Веб-Приложение
                 </LinkButton>
-                {/* {platformId &&
+                {platformId &&
                     !["other", "ssr"].includes(platformId ?? "") &&
                     platformInfo?.url && (
                         <LinkButton href={platformInfo.url} variant="primary">
@@ -63,7 +63,7 @@ const HeroButtons = ({ darker }: HeroButtonsProps) => {
                                 ? `from ${platformInfo.source}`
                                 : `for ${platformInfo?.name}`}
                         </LinkButton>
-                    )} */}
+                    )}
             </Buttons>
             <Link href="/download">
                 <OtherPlatforms>
