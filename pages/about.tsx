@@ -5,23 +5,23 @@ import { renderMarkdown } from "../lib/markdown";
 import MarkdownView from "../components/posts/MarkdownView";
 import { getLegalFile, LEGALFILES } from "../lib/legal";
 
-interface CommunityGlsProps {
+interface AboutProps {
     renderedContents: string;
 }
 
-export default function CommunityGuidelines({
+export default function About({
     renderedContents,
-}: CommunityGlsProps) {
+}: AboutProps) {
     return (
         <PagePadding>
-            <PageTitle>{`Принципы сообщества - Tandem`}</PageTitle>
+            <PageTitle>{`О нас - Tandem`}</PageTitle>
             <MarkdownView rendered={renderedContents}></MarkdownView>
         </PagePadding>
     );
 }
 
-export const getStaticProps: GetStaticProps<CommunityGlsProps> = async () => {
-    const markdown = await getLegalFile(LEGALFILES.GUIDELINES);
+export const getStaticProps: GetStaticProps<AboutProps> = async () => {
+    const markdown = await getLegalFile(LEGALFILES.ABOUT);
     const rendered = await renderMarkdown(markdown);
 
     return {

@@ -14,7 +14,7 @@ export default function PrivacyPolicy({
 }: PrivacyPolicyProps) {
     return (
         <PagePadding>
-            <PageTitle>{`Privacy Policy - Tandem`}</PageTitle>
+            <PageTitle>{`Политика конфиденциальности - Tandem`}</PageTitle>
             <MarkdownView rendered={renderedContents}></MarkdownView>
         </PagePadding>
     );

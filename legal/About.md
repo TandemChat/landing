@@ -1,26 +1,27 @@
-# Communication is critical.
-# Privacy is essential.
+# Общение имеет критическое значение.
 
-Revolt is currently led by [Paul Makles](https://insrt.uk) and in part by [Martin Löffler](https://github.com/fatalerrorcoded).
+# Конфиденциальность является необходимостью.
 
-> "From your first dirt block, to the greatest guild you have ever played with, to late-night deep conversations with your friends, we all know how important communication is.
+Революция в настоящее время возглавляется Полом Маклсом (https://insrt.uk/) и частично Мартином Лёффлером (https://github.com/fatalerrorcoded).
+
+> "От вашего первого блока земли до величайшей гильдии, с которой вы когда-либо играли, до поздних ночных глубоких разговоров с друзьями — мы все знаем, как важно общение.
 >
-> We at Revolt strive to create a free and open platform, allowing diversified communities of all kinds to thrive and to be fully transparent with our users. We believe everyone should have total freedom over how they talk with each other.
+> Мы в Revolt стремимся создать свободную и открытую платформу, позволяющую разнообразным сообществам всех типов процветать и быть полностью прозрачными перед нашими пользователями. Мы верим, что каждый должен иметь полную свободу в том, как они общаются друг с другом.
 >
-> We realize these days that privacy has come down lower in priority amongst other values. We believe in freedom of speech, that everyone should have the right to talk freely and express themselves in any way."
+> Мы осознаем, что в наши дни конфиденциальность стала менее приоритетной среди других ценностей. Мы верим в свободу слова, что каждый должен иметь право говорить свободно и выражать себя любым способом."
 
-\- nizune, Former Designer
+\- nizune, бывший дизайнер
 
-## Our Story
+## Наша история
 
-The Revolt project originally started back in 2019 by a group of three students from the United Kingdom and the Czech Republic, looking for an alternative to the already emerging, closed-source chat platforms.
+Проект Revolt был основан в 2019 году группой из трех студентов из Великобритании и Чехии, которые искали альтернативу уже появляющимся закрытым чат-платформам.
 
-Our main focus for the project was to create an open-source, completely compromise-free platform that offered all of the same features and competed against other chat apps.
+Нашим основным фокусом было создание открытой, совершенно безопасной платформы, которая предлагала бы все те же функции и конкурировала с другими чат-приложениями.
 
-Revolt as it stands today began development towards the end of 2020 and went online on the 27th of January 2021.
+Revolt в том виде, в котором он существует сегодня, начал разрабатываться в конце 2020 года и вышел в онлайн 27 января 2021 года.
 
-Revolt went into a public beta on the 11th of August 2021.
+Revolt вошел в публичную бета-версию 11 августа 2021 года.
 
-## For the people
+## Для людей
 
-We at Revolt made our platform completely [open-source](https://github.com/revoltchat) to remain transparent while maintaining the best user experience possible. We are very thankful to our users for using Revolt and we think they deserve transparency from our side and we do our best to provide the best platform with the highest standard of privacy and security they deserve. We recognize everyone who helps improve our solution and we are open to contributions from our community as together, we can develop a platform that we all deserve.
+Мы в Revolt сделали нашу платформу полностью открытым исходным кодом (https://github.com/revoltchat), чтобы оставаться прозрачными, обеспечивая при этом лучший пользовательский опыт. Мы очень благодарны нашим пользователям за использование Revolt и считаем, что они заслуживают прозрачности с нашей стороны. Мы делаем все возможное, чтобы предоставить лучшую платформу с самым высоким уровнем конфиденциальности и безопасности, который они заслуживают. Мы признаем каждого, кто помогает улучшить наше решение, и открыты для вкладов от нашего сообщества, так как вместе мы можем разработать платформу, которую мы все заслуживаем.

@@ -4,11 +4,11 @@
 
 *Note: Please be aware that only our Terms of Service and Privacy Policy in English are legally binding. While translations of these documents may be provided for your convenience, they are translated by the community and are thus not legal documents.*
 
-This Terms of Service document applies to the official instance of Revolt, available at [revolt.chat](https://revolt.chat). Self-hosted instances may choose to adopt this document if they wish.
+This Terms of Service document applies to the official instance of Tandem, available at [tandemchat.ru](https://tandemchat.ru).
 
 ### **Introduction**
 
-We get that legal documents can be overwhelming and boring, so we've tried our best to keep it as simple and possible while providing the information needed. It is important however to remember that these terms are legally binding between yourself and us if you choose to use Revolt, so please read them carefully before proceeding - We will continue to improve and tackle some sections. 
+We get that legal documents can be overwhelming and boring, so we've tried our best to keep it as simple and possible while providing the information needed. It is important however to remember that these terms are legally binding between yourself and us if you choose to use Tandem, so please read them carefully before proceeding - We will continue to improve and tackle some sections. 
 
 ### Definitions
 
@@ -16,20 +16,20 @@ Throughout this document, we will use certain terminlogy to refer to things spec
 
 - **Terms** – the Terms of Service, a legally binding agreement between Us and You ("Terms", "Terms of Service")
 - **You** – the user ("you", "your" or "user")
-- **Revolt** – the service provided by us ("Revolt", "Platform", "Service" or "Application")
-- **Revolt Communications** – our company ("us", "we", or "our")
+- **Tandem** – the service provided by us ("Tandem", "Platform", "Service" or "Application")
+- **Tandem org.** – our company ("us", "we", or "our")
 
 Your access to and use of the service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use our services. By accessing or using the service you agree to be bound by these Terms. If you disagree with any part of the terms, then please discontinue the use of this service.
 
 ### **Understanding what we are**
 
-Revolt is a chat application that allows you to communicate with other users through instant messaging, voice or video calls. Some content shared on the platform may lead to external websites that are not hosted by us. See [5. Other linked websites](#5.%20Other%20linked%20websites).
+Tandem is a chat application that allows you to communicate with other users through instant messaging, voice or video calls. Some content shared on the platform may lead to external websites that are not hosted by us. See [5. Other linked websites](#5.%20Other%20linked%20websites).
 
 **By using our Service, you agree:**
 
 - You are 13 years of age or older.
 - You have read and understood the Terms and Privacy Policy.
-- You agree to abide by our [Acceptable Usage Policy](https://revolt.chat/aup).
+- You agree to abide by our [Acceptable Usage Policy](https://tandemchat.ru/aup).
 
 The Terms are subject to change at any time, we will always notify you at least 30 days in advance when we make changes.
 
@@ -43,11 +43,11 @@ We may terminate or suspend access to our services immediately, without prior no
 
 ## 3. Community Guidelines
 
-Our current community guidelines can be found at [Acceptable Usage Policy](https://revolt.chat/aup).
+Our current community guidelines can be found at [Acceptable Usage Policy](https://tandemchat.ru/aup).
 
 ## 4. Content
 
-Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("Content"). You are therefore responsible for the content that you post or share through our service. The type of content that is allowed or disallowed on our platform is available on our [Acceptable Usage Policy](https://revolt.chat/aup).
+Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("Content"). You are therefore responsible for the content that you post or share through our service. The type of content that is allowed or disallowed on our platform is available on our [Acceptable Usage Policy](https://tandemchat.ru/aup).
 
 ## 5. Other linked websites
 
@@ -57,7 +57,7 @@ We have no control over and assume no responsibility for the content, privacy po
 
 ## 6. **Warranty**
 
-Revolt is provided "as is" with no warranty and/or liability for any outcomes of using our service. Revolt is not responsible for any content shared on self-hosted instances, as outlined in our [Acceptable Usage Policy](https://revolt.chat/aup).
+Tandem is provided "as is" with no warranty and/or liability for any outcomes of using our service. Tandem is not responsible for any content shared on self-hosted instances, as outlined in our [Acceptable Usage Policy](https://tandemchat.ru/aup).
 
 ## 7. Changes
 
@@ -67,4 +67,4 @@ You are advised to review our Terms of Service periodically for any changes. Suc
 
 ## Contact Us
 
-Feel free to contact us if you have any questions regarding our Terms of Service or any of the above statements. You may contact us as follows: [contact@revolt.chat](mailto:contact@revolt.chat)
+Feel free to contact us if you have any questions regarding our Terms of Service or any of the above statements. You may contact us as follows: [contact@tandemchat.ru](mailto:contact@tandemchat.ru)
