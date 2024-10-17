@@ -58,10 +58,10 @@ const HeroButtons = ({ darker }: HeroButtonsProps) => {
                     !["other", "ssr"].includes(platformId ?? "") &&
                     platformInfo?.url && (
                         <LinkButton href={platformInfo.url} variant="primary">
-                            Download{" "}
+                            Скачать{" "}
                             {platformInfo.source
-                                ? `from ${platformInfo.source}`
-                                : `for ${platformInfo?.name}`}
+                                ? `из ${platformInfo.source}`
+                                : `для ${platformInfo?.name}`}
                         </LinkButton>
                     )}
             </Buttons>
